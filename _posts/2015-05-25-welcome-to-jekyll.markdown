@@ -28,4 +28,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 
-[img1]:        http://localhost:4000/images/test.jpg
+[img1]:        http://iamanastasia.com/images/test.jpg
